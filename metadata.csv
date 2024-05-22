@@ -1,0 +1,12 @@
+transcripts,gpa,java.lang.double,True,null,null,0.7,5.0
+transcripts,date_passed,java.lang.Date,False,null,null,1990-01-01,2020-12-31
+transcripts,course_name,java.lang.String,False,null,null,AAAAAA,zzzzzz
+transcripts,student_id,java.lang.String,False,null,null,43-0000,99-9999
+courses,hours,java.lang.Integer,False,null,null,1,24
+courses,date_added,java.lang.Date,True,null,null,1901-01-01,2020-12-31
+courses,course_id,java.lang.String,False,null,null,0000,9999
+courses,course_name,java.lang.String,False,null,null,AAAAAA,zzzzzz
+courses,hours,java.lang.Integer,False,null,null,1,24
+courses,date_added,java.lang.Date,True,null,null,1901-01-01,2020-12-31
+courses,course_id,java.lang.String,False,null,null,0000,9999
+courses,course_name,java.lang.String,False,null,null,AAAAAA,zzzzzz
